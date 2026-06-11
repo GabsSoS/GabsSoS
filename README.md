@@ -51,4 +51,4 @@ Pós-graduação em **Desenvolvimento Back-End**, aprofundando minha atuação e
 
 Estou sempre aberto a trocar ideias sobre **Python, automação e engenharia de dados** — sinta-se à vontade para se conectar.
 
-📫 **lqdgabrielalmeida@gmail.com**
+📫 **gabrielvictorlr@gmail.com**
