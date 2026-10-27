@@ -8,7 +8,7 @@ Gosto de resolver o tipo de problema que faz uma equipe perder horas: tarefas ma
 
 ### 🚀 O que eu faço
 
-No **Fundo Garantidor de Créditos (FGC)**, desenvolvo soluções em Python que já reduziram rotinas de horas — e até dias — para poucos minutos, automatizando fluxos críticos com **Python**, **SQL Server** e serviços **AWS** (Cognito e DynamoDB).
+Desenvolvo soluções em Python que já reduziram rotinas de horas — e até dias — para poucos minutos, automatizando fluxos críticos com **Python**, **SQL Server** e serviços **AWS** (Cognito e DynamoDB).
 
 No dia a dia, transito entre **back-end, automação e dados**: da construção de APIs ao tratamento e análise de informações para apoiar decisões.
 
